@@ -2,7 +2,7 @@
 #### Compiled binary of Apple XNU ARM Kernel. QEMU boot supported.
 
 Based on darwin-on-arm's xnu kernel.<br>
-Compiled using my [build script](https://gitee.com/pxesrv/xnu_buildscript)
+Compiled using my [build script](https://gitee.com/pxesrv/xnu-buildscript)
 ## File description
 + mach_kernel.DEBUG.armpba8: DEBUG version of kernel file for RealView
 + mach_kernel.DEVELOPMENT.armpba8: DEVELOPMENT version of kernel file for RealView
